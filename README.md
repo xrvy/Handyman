@@ -1,4 +1,6 @@
-# Click the link below to visit the website:
+# Handyman Website
+
+Click the link below to visit the website:
 https://xrvy.github.io/Handyman/
 
 **Source Code and Assets**
